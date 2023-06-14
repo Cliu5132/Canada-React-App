@@ -5,6 +5,8 @@ export const BulletinBoardContainer = styled.div`
   flex-direction: column;
   margin-bottom: 30px;
   width: 800px;
+  border: 1px solid black;
+  padding: 50px;
 `;
 
 export const BulletinHeader = styled.div`
